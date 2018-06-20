@@ -1,6 +1,12 @@
 Project Management System
 =========================
 
+### Tech Stack
+ - Codeigniter MVC
+ - Mysql
+ - Apache
+ - Jquery
+ 
 ### User Types:
 
 **Project Manager**
